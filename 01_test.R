@@ -2,6 +2,8 @@
 # 01_test.R
 # Simple example: evaluate an arbitrary function y = f(x) with hardcoded
 # parameters and plot the result with ggplot2. Used as a demo for GitHub.
+# 
+# Contacto: Nico
 # ------------------------------------------------------------------------------
 
 # Proposed changes:
