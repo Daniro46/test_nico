@@ -33,7 +33,7 @@ df <- data.frame(x = x, y = y)
 # Plot -------------------------------------------------------------------------
 p <- ggplot(df, aes(x = x, y = y)) +
         geom_hline(yintercept = d, linetype = "dashed", colour = "grey50") +
-        geom_line(colour = "steelblue", linewidth = 1) +
+        geom_line(colour = "red", linewidth = 1) +
         labs(title = "y = a * sin(b * x) * exp(-c * x) + d",
             x = "x_V2",
             y = "y_V2") +
