@@ -4,6 +4,7 @@
 # parameters and plot the result with ggplot2. Used as a demo for GitHub.
 # 
 # Contacto: Nico
+# COn la colaboracion de Kathy, Cata, y Rui
 # ------------------------------------------------------------------------------
 
 # Proposed changes:
