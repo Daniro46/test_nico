@@ -21,7 +21,9 @@ c <- 0.1      # exponential decay rate
 d <- 1.0      # vertical offset
 
 # x values ---------------------------------------------------------------------
-x <- seq(from = 0, to = 20, by = 0.1)
+xmin <- 0
+xmax <- 20
+x <- seq(from = xmin, to = xmax, by = 0.1)
 
 # Arbitrary function: damped sine wave -----------------------------------------
 y <- a * sin(b * x) * exp(-c * x) + d
