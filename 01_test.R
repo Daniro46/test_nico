@@ -19,7 +19,7 @@ library("ggplot2")
 # Hardcoded parameters ---------------------------------------------------------
 a <- 2.0      # amplitude
 b <- 0.5      # frequency
-c <- 0.1      # exponential decay rate
+c <- 0.2      # exponential decay rate
 d <- 1.0      # vertical offset
 
 # x values ---------------------------------------------------------------------
