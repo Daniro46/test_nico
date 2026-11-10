@@ -20,7 +20,7 @@ library("ggplot2")
 a <- 3.0      # amplitude
 b <- 0.5      # frequency
 c <- 0.1      # exponential decay rate
-d <- 1.0      # vertical offset
+d <- 1.5      # vertical offset
 
 # x values ---------------------------------------------------------------------
 xmin <- 0
